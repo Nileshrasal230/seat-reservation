@@ -1,0 +1,14 @@
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+
+target/
+.vscode/
+.idea/
+
+*.log
+
+README.md
+WRITEUP.md
